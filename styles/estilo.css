@@ -28,7 +28,7 @@ html{
 .contenedor-header header .logo a{
     font-family: 'Righteous';
     font-size: 36px;
-    color: #1CB698;
+    color: #C8B6FF;
     text-decoration: none;
 }
 .contenedor-header header ul{
@@ -44,10 +44,10 @@ html{
     text-decoration: none;
 }
 .contenedor-header header nav ul li a:hover{
-    color: #1CB698;
+    color: #C8B6FF;
 }
 .nav-responsive{
-    background-color: #1CB698;
+    background-color: #C8B6FF;
     color:#fff;
     padding: 5px 10px;
     border-radius: 5px;
@@ -57,7 +57,7 @@ html{
 /* SECCION INICIO */
 .inicio{
     background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)),
-    url(../img/fondo.jpg);
+    url(../img/fondoInicio.jpg);
     background-size: cover;
     height: 100vh;
     color: #fff;
@@ -74,7 +74,7 @@ html{
 }
 .inicio .contenido-banner img{
     margin-top: 40px;
-    border: 10px solid #1CB698;
+    border: 10px solid #C8B6FF;
     display: block;
     width: 80%;
     margin: auto;
